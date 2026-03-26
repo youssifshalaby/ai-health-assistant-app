@@ -90,20 +90,6 @@ Uses **voice measurement features** including:
 - Spread measures
 
 ---
-
-# 🏗️ Project Structure
-ai-health-assistant
-│
-├── app.py
-├── requirements.txt
-├── models
-│ ├── diabetes_model.sav
-│ ├── heart_disease_model.sav
-│ └── parkinsons_model.sav
-│
-└── README.md
-
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -129,26 +115,6 @@ streamlit run app.py
 
 ---
 
-# 📈 Model Pipeline
-
-Typical pipeline used for model training:
-
-Data Collection
-↓
-Data Preprocessing
-↓
-Feature Scaling (StandardScaler)
-↓
-Train-Test Split
-↓
-Model Training
-↓
-Model Evaluation
-↓
-Model Serialization (Pickle)
-↓
-Streamlit Deployment
-------------
 # 👨‍💻 Author
 
 **Youssef Ayman Shalaby**
