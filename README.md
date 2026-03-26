@@ -14,13 +14,7 @@ This project demonstrates the use of **Machine Learning pipelines, model deploym
 
 # 🚀 Live Demo
 
-(Add your deployed link here)
-
-Example:
-
-https://ai-health-assistant.streamlit.app
-
----
+https://huggingface.co/spaces/youssifshalaby/ai-health-assistant-app
 
 # 📊 Machine Learning Models Used
 
